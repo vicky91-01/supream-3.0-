@@ -1,2 +1,2 @@
 # supream-3.0
-it is DSA course by love babbar and lakshay bhaiya
+It is DSA course by love babbar and lakshay bhaiya in c++ Language.
